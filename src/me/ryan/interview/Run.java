@@ -16,4 +16,12 @@ public class Run {
 
     }
 
+    public void factoty() {
+
+    }
+
+    public void singleton() {
+
+    }
+
 }
